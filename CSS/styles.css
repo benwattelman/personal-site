@@ -1,0 +1,154 @@
+body {
+  margin:0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+margin: 100px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 5.6rem;
+color: #66BFBF;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  color: #b7bebe;
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 5%;
+  margin: 100px auto;
+
+}
+
+p {
+  line-height: 2;
+
+}
+
+.top-container {
+background-color: #EAF6F6;
+padding-top: 100px;
+padding-bottom: 20px;
+margin-bottom: 20px;
+position: relative;
+}
+
+.middle-container {
+}
+
+.profile {
+  margin: 80px auto;
+}
+
+.bottom-container {
+  margin: 50px auto 0 auto;
+}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 150px auto 300px auto;
+  text-align: left;
+}
+
+.code-img {
+  border-radius:50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.project-img {
+  border-radius:50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.my-img {
+  border-radius:50%;
+  width: 15%;
+}
+
+.contact-message {
+  margin: 40px auto 60px auto;
+}
+
+.contact-button {
+	box-shadow:inset 0 1px 0 0 #bee2f9;
+	background:linear-gradient(to bottom, #66BFBF 5%, #66BFBF 100%);
+	background-color:#63b8ee;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #7cacde;
+}
+.contact-button:hover {
+	background:linear-gradient(to bottom, #81ffff 5%, #66BFBF 100%);
+	background-color:#468ccf;
+}
+.contact-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+}
+
+.footer-link {
+  color: #0a6467;
+  margin:20px 40px 60px 40px;
+  text-decoration: none;
+
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.credit {
+  color: white;
+  font-size: 0.75rem;
+  padding: 200px auto 20px auto;
+}
